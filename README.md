@@ -1,4 +1,4 @@
-# splunkmovieproj
+# Splunk Movie Project
 
 # API Tests for Splunk movie project
 Tools used : Cucumber, RestAssured and Maven
